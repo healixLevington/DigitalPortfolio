@@ -4,6 +4,7 @@ max-height: 100vh;
 }
 
 body {
+	background-color: rgb(123,149,150);
     width: 90vmin;
     align-content: center;
     margin: auto;
